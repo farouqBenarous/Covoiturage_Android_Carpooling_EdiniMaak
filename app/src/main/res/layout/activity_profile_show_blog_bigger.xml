@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context=".ProfileShowBlogBigger">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:padding="1dp">
+
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/user_single_image"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="10dp"
+            android:src="@drawable/profile_vide" />
+
+
+        <TextView
+            android:id="@+id/Username"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="20dp"
+            android:text="User name  :"
+            android:textColor="#000" />
+
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="70dp"
+        android:layout_marginStart="70dp"
+        android:text="Email : "
+        android:textColor="#000" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="1dp">
+
+
+        <TextView
+            android:id="@+id/dép"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Departure City   "
+            android:textColor="#000" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="   -->   "
+            android:textColor="#000" />
+
+        <TextView
+            android:id="@+id/arv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Arrived City"
+            android:textColor="#000" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/datee"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        android:text="Departure Date : "
+        android:textColor="#000" />
+
+    <TextView
+        android:id="@+id/time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="3dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        android:text="Departure Time : "
+        android:textColor="#000" />
+
+    <TextView
+        android:id="@+id/place"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        android:text="Avalaible place : "
+        android:textColor="#000" />
+
+    <TextView
+        android:id="@+id/price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        android:text="Price : "
+        android:textColor="#000" />
+
+    <TextView
+        android:id="@+id/type"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        android:text="Type  : "
+        android:textColor="#000" />
+
+    <com.github.rubensousa.raiflatbutton.RaiflatButton
+        android:id="@+id/phone"
+        style="@style/Base.Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        android:background="@null"
+        android:gravity="center"
+        android:onClick="Call"
+        android:text="Phonenumber : "
+        android:textColor="#000"
+        android:textStyle="bold" />
+
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@color/colorAccent"
+        android:onClick="Delete"
+        android:text="Delete Trip"
+        android:textColor="@android:color/black" />
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@color/colorAccent"
+        android:onClick="Change"
+        android:text="Change Trip"
+        android:textColor="@android:color/black" />
+
+
+</LinearLayout>

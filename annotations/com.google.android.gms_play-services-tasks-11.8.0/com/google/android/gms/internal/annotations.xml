@@ -1,0 +1,35 @@
+<root>
+    <item name='com.google.android.gms.internal.zzcaq com.google.android.gms.internal.zzcau zzb(int, java.lang.String, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.internal.zzcbb com.google.android.gms.internal.zzcax zzarc()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.internal.zzcxt zzcxt(android.content.Context, int, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.internal.zzcbb com.google.android.gms.internal.zzcaw zzarb()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.internal.zzcaq com.google.android.gms.internal.zzcat zzb(int, java.lang.String, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.internal.zzffw com.google.android.gms.internal.zzffw.zza zzcxw()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.internal.zzffw com.google.android.gms.internal.zzffw zzcxx()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.internal.zzcaq com.google.android.gms.internal.zzcas zzb(int, java.lang.String, java.lang.Boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.internal.zzcax T zzb(com.google.android.gms.internal.zzcaq&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.internal.zzcbc T zzb(java.util.concurrent.Callable&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.internal.zzffw.zza com.google.android.gms.internal.zzffw.zza zzlt(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

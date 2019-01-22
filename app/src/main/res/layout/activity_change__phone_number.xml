@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:fitsSystemWindows="true"
+    android:padding="10dp"
+    >
+
+    <FrameLayout
+        android:id="@+id/frameLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+        <TextView
+            android:id="@+id/textview1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/old_phone_number"
+            android:textColor="@android:color/black"
+            android:layout_marginTop="8dp"
+            />
+
+        <EditText
+            android:id="@+id/oldphone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/phone_numberr"
+            android:text="@string/_213"
+            android:inputType="phone"
+            android:layout_marginTop="20dp"
+            />
+        <TextView
+            android:id="@+id/textview2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/new_phone_number"
+            android:textColor="@android:color/black"
+            android:layout_marginTop="90dp"
+
+            />
+
+        <EditText
+            android:id="@+id/newphone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="100dp"
+            android:hint="@string/phone_numberr"
+            android:text="@string/_213"
+            android:inputType="phone" />
+
+
+        <Button
+            android:id="@+id/send_btn"
+            android:onClick="verify"
+            android:layout_marginTop="150dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/colorAccent"
+            android:text="@string/send_pincode"
+            android:textColor="@android:color/black"
+
+            />
+
+        <ProgressBar android:id="@+id/progress7"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="120pt"
+            android:visibility="gone" />
+
+    </FrameLayout>
+
+</LinearLayout>

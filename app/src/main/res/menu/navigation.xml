@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/road_24"
+        android:title="@string/title_home"
+
+        />
+
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/notifications_24"
+        android:title="@string/title_notifications"
+        />
+
+    <item
+        android:id="@+id/message"
+        android:icon="@drawable/msg_24dp"
+        android:title="@string/title_message" />
+
+
+    <item
+        android:id="@+id/invitations"
+        android:icon="@drawable/request__96"
+        android:title="@string/requests" />
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/user_24"
+        android:title="@string/title_Profile" />
+
+
+</menu>

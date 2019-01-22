@@ -1,0 +1,101 @@
+<root>
+    <item name='com.google.android.gms.auth.api.signin.GoogleSignInAccount com.google.android.gms.auth.api.signin.GoogleSignInAccount zza(com.google.android.gms.common.api.Scope...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.GoogleSignInOptions SCOPE_GAMES_LITE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.zzb java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.zze java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.zze java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.GoogleSignInOptions java.util.ArrayList&lt;com.google.android.gms.common.api.Scope&gt; zzabe()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.GoogleSignInOptions zzehk'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.GoogleSignInOptions DEFAULT_GAMES_SIGN_IN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.GoogleSignInOptions.Builder com.google.android.gms.auth.api.signin.GoogleSignInOptions build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.GoogleSignInOptions zzehi'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.zzb java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.GoogleSignInOptions DEFAULT_SIGN_IN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.GoogleSignInOptions.Builder com.google.android.gms.auth.api.signin.GoogleSignInOptions.Builder requestScopes(com.google.android.gms.common.api.Scope, com.google.android.gms.common.api.Scope...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.GoogleSignInOptions.Builder com.google.android.gms.auth.api.signin.GoogleSignInOptions.Builder requestServerAuthCode(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.GoogleSignInOptions.Builder com.google.android.gms.auth.api.signin.GoogleSignInOptions.Builder requestServerAuthCode(java.lang.String, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.zzb java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.GoogleSignInOptions.Builder com.google.android.gms.auth.api.signin.GoogleSignInOptions.Builder setHostedDomain(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.GoogleSignInAccount com.google.android.gms.auth.api.signin.GoogleSignInAccount zzaaz()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.zze java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.GoogleSignInOptions.Builder com.google.android.gms.auth.api.signin.GoogleSignInOptions.Builder requestProfile()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.GoogleSignInOptions.Builder com.google.android.gms.auth.api.signin.GoogleSignInOptions.Builder requestEmail()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.GoogleSignInOptions zzehj'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.GoogleSignInOptions CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.GoogleSignInOptions.Builder com.google.android.gms.auth.api.signin.GoogleSignInOptions.Builder setAccountName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.GoogleSignInAccount java.util.Set&lt;com.google.android.gms.common.api.Scope&gt; zzabb()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.GoogleSignInAccount CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.GoogleSignInOptions.Builder com.google.android.gms.auth.api.signin.GoogleSignInOptions.Builder addExtension(com.google.android.gms.auth.api.signin.GoogleSignInOptionsExtension) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.GoogleSignInOptions.Builder com.google.android.gms.auth.api.signin.GoogleSignInOptions.Builder addExtension(com.google.android.gms.auth.api.signin.GoogleSignInOptionsExtension)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.GoogleSignInAccount java.util.Set&lt;com.google.android.gms.common.api.Scope&gt; getGrantedScopes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.GoogleSignInOptions.Builder com.google.android.gms.auth.api.signin.GoogleSignInOptions.Builder requestIdToken(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.GoogleSignInOptions SCOPE_GAMES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.GoogleSignInOptions.Builder com.google.android.gms.auth.api.signin.GoogleSignInOptions.Builder requestId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.GoogleSignInOptions.Builder Builder(com.google.android.gms.auth.api.signin.GoogleSignInOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

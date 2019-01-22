@@ -1,0 +1,62 @@
+<root>
+    <item name='com.google.android.gms.actions.NoteIntents ACTION_CREATE_NOTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.actions.ItemListIntents EXTRA_ITEM_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.actions.ItemListIntents EXTRA_LIST_QUERY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.actions.NoteIntents EXTRA_TEXT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.actions.NoteIntents ACTION_APPEND_NOTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.actions.ReserveIntents ACTION_RESERVE_TAXI_RESERVATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.actions.ItemListIntents ACTION_CREATE_ITEM_LIST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.actions.ItemListIntents EXTRA_ITEM_QUERY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.actions.NoteIntents EXTRA_NOTE_QUERY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.actions.SearchIntents ACTION_SEARCH'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.actions.NoteIntents EXTRA_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.actions.SearchIntents EXTRA_QUERY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.actions.ItemListIntents ACTION_REJECT_ITEM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.actions.ItemListIntents ACTION_ACCEPT_ITEM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.actions.ItemListIntents ACTION_DELETE_ITEM_LIST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.actions.ItemListIntents EXTRA_ITEM_NAMES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.actions.ItemListIntents EXTRA_LIST_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.actions.NoteIntents ACTION_DELETE_NOTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.actions.ItemListIntents ACTION_APPEND_ITEM_LIST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.actions.ItemListIntents ACTION_DELETE_ITEM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

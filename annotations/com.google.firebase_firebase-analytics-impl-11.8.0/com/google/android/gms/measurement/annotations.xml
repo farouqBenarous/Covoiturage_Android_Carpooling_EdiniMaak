@@ -1,0 +1,59 @@
+<root>
+    <item name='com.google.android.gms.measurement.AppMeasurement.Event zziwg'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.measurement.AppMeasurement.Event zziwh'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.measurement.AppMeasurement.Param TIMESTAMP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.measurement.AppMeasurement.zzb zzb(com.google.android.gms.measurement.AppMeasurement.zzb) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.measurement.AppMeasurement CRASH_ORIGIN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.measurement.AppMeasurement FCM_ORIGIN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.measurement.AppMeasurement com.google.android.gms.measurement.AppMeasurement getInstance(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.measurement.AppMeasurement.Event APP_EXCEPTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.measurement.AppMeasurement.Param zziwj'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.measurement.AppMeasurement void setConditionalUserProperty(com.google.android.gms.measurement.AppMeasurement.ConditionalUserProperty) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.measurement.AppMeasurement.Param zziwi'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.measurement.AppMeasurement.ConditionalUserProperty ConditionalUserProperty(com.google.android.gms.measurement.AppMeasurement.ConditionalUserProperty) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.measurement.AppMeasurement com.google.android.gms.measurement.AppMeasurement getInstance(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.measurement.AppMeasurement.UserProperty zziwo'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.measurement.AppMeasurement void setConditionalUserPropertyAs(com.google.android.gms.measurement.AppMeasurement.ConditionalUserProperty) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.measurement.AppMeasurement.UserProperty zziwn'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.measurement.AppMeasurement java.util.Map&lt;java.lang.String,java.lang.Object&gt; getUserProperties(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.measurement.AppMeasurement.Param FATAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.measurement.AppMeasurement.UserProperty FIREBASE_LAST_NOTIFICATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

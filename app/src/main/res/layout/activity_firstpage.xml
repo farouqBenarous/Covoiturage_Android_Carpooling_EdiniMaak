@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="com.example.sony.tabhost.Firstpage">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@color/colorPrimaryDark"
+        android:orientation="vertical"
+        android:padding="@dimen/activity_horizontal_margin">
+
+        <ImageView
+            android:layout_width="240dp"
+            android:layout_height="194dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="40dp"
+            android:src="@mipmap/ic_launcher" />
+        <Button
+            android:id="@+id/gosignup"
+            android:onClick="gosignup"
+            style="?android:textAppearanceSmall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:background="@color/colorAccent"
+            android:text="@string/signup"
+            android:textColor="@android:color/black"
+            android:textStyle="bold"
+            android:visibility="gone"
+            />
+
+        <Button
+            android:id="@+id/goLogine"
+            android:onClick="goLogine"
+            style="?android:textAppearanceSmall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:background="@color/colorAccent"
+            android:text="@string/login"
+            android:textColor="@android:color/black"
+            android:textStyle="bold"
+            android:visibility="gone"
+            />
+
+        <!-- Link to Login Screen -->
+    </LinearLayout>
+
+    <ProgressBar
+        android:id="@+id/progr"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center|bottom"
+        android:layout_marginBottom="20dp"
+        android:visibility="gone" />
+
+</android.support.design.widget.CoordinatorLayout>

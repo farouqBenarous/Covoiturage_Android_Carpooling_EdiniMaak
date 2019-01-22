@@ -1,0 +1,65 @@
+<root>
+    <item name='com.google.android.gms.common.util.zza void zza(java.lang.StringBuilder, boolean[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.zzt java.lang.String[] zzc(java.util.Set&lt;com.google.android.gms.common.api.Scope&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.zzt java.lang.String[] zzc(java.util.Set&lt;com.google.android.gms.common.api.Scope&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.zza void zza(java.lang.StringBuilder, double[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.zza void zza(java.lang.StringBuilder, T[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.zza byte[] zza(byte[]...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.zza java.util.ArrayList&lt;T&gt; zza(T[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.zza void zza(java.lang.StringBuilder, long[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.zzg void zzb(java.lang.String, android.database.CharArrayBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.zzv java.io.File getNoBackupFilesDir(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.zza void zza(java.lang.StringBuilder, java.lang.String[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.zzm java.util.Map&lt;java.lang.String,java.lang.String&gt; zza(java.net.URI, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.zza java.util.ArrayList&lt;T&gt; zza(T[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.zzn long zza(java.io.InputStream, java.io.OutputStream, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.zzn long zza(java.io.InputStream, java.io.OutputStream, boolean, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.zze java.util.Set&lt;T&gt; zzb(T...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.zzn byte[] zza(java.io.InputStream, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.zzp void zza(java.lang.StringBuilder, java.util.HashMap&lt;java.lang.String,java.lang.String&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.zzp void zza(java.lang.StringBuilder, java.util.HashMap&lt;java.lang.String,java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.zza void zza(java.lang.StringBuilder, float[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.zzg void zzb(java.lang.String, android.database.CharArrayBuffer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

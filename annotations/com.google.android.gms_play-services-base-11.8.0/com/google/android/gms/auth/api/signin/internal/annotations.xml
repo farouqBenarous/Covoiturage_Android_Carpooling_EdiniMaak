@@ -1,0 +1,23 @@
+<root>
+    <item name='com.google.android.gms.auth.api.signin.internal.zzp com.google.android.gms.auth.api.signin.internal.zzp zzar(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.internal.zzm java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.internal.zzn CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.internal.zzp com.google.android.gms.auth.api.signin.internal.zzp zzs(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.internal.zzn zzn(com.google.android.gms.auth.api.signin.GoogleSignInOptionsExtension) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.internal.zzm java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.auth.api.signin.internal.zzm java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

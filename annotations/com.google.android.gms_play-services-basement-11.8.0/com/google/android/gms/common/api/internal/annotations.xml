@@ -1,0 +1,62 @@
+<root>
+    <item name='com.google.android.gms.common.api.internal.zzcf T zza(java.lang.String, java.lang.Class&lt;T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.internal.LifecycleCallback com.google.android.gms.common.api.internal.zzcf zzb(com.google.android.gms.common.api.internal.zzce)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.internal.zzbz com.google.android.gms.common.api.Status zzck(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.internal.zzbz com.google.android.gms.common.api.Status zzck(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.internal.zzce zzce(android.app.Activity) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.internal.zzdb T zza(java.lang.String, java.lang.Class&lt;T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.internal.zzce android.support.v4.app.FragmentActivity zzajm()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.internal.zzcg com.google.android.gms.common.api.internal.zzcg zzo(android.app.Activity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.internal.zzcz java.lang.Exception zzt(com.google.android.gms.common.api.Status) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.internal.LifecycleCallback com.google.android.gms.common.api.internal.zzcf zzn(android.app.Activity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.internal.zzk com.google.android.gms.common.api.internal.zzk zzahb()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.internal.zzdb com.google.android.gms.common.api.internal.zzdb zza(android.support.v4.app.FragmentActivity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.internal.zzcg T zza(java.lang.String, java.lang.Class&lt;T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.internal.LifecycleCallback com.google.android.gms.common.api.internal.zzcf zzb(com.google.android.gms.common.api.internal.zzce) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.internal.zzcz java.lang.Exception zzt(com.google.android.gms.common.api.Status)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.internal.LifecycleCallback com.google.android.gms.common.api.internal.zzcf zzn(android.app.Activity) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.internal.zzce android.app.Activity zzajl()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

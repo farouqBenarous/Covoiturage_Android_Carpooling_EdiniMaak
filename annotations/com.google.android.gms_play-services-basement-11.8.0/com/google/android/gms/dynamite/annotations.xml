@@ -1,0 +1,38 @@
+<root>
+    <item name='com.google.android.gms.dynamite.DynamiteModule zzgxa'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.dynamite.DynamiteModule com.google.android.gms.dynamite.DynamiteModule zza(android.content.Context, com.google.android.gms.dynamite.DynamiteModule.zzd, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.dynamite.DynamiteModule com.google.android.gms.dynamite.DynamiteModule zza(android.content.Context, com.google.android.gms.dynamite.DynamiteModule.zzd, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.dynamite.DynamiteModule android.content.Context zzaqb()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.dynamite.DynamiteModule zzgwy'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.dynamite.DynamiteModule zzgwz'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.dynamite.DynamiteModule zzgww'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.dynamite.DynamiteModule.zzd com.google.android.gms.dynamite.zzj zza(android.content.Context, java.lang.String, com.google.android.gms.dynamite.zzi)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.dynamite.DynamiteModule zzgxb'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.dynamite.DynamiteModule.zzd com.google.android.gms.dynamite.zzj zza(android.content.Context, java.lang.String, com.google.android.gms.dynamite.zzi) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

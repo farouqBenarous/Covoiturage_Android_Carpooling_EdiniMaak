@@ -1,0 +1,14 @@
+<root>
+    <item name='com.google.android.gms.security.ProviderInstaller void installIfNeededAsync(android.content.Context, com.google.android.gms.security.ProviderInstaller.ProviderInstallListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.security.ProviderInstaller void installIfNeeded(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.security.ProviderInstaller void installIfNeededAsync(android.content.Context, com.google.android.gms.security.ProviderInstaller.ProviderInstallListener) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.security.ProviderInstaller PROVIDER_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

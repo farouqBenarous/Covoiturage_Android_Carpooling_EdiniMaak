@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "391654219851",
+    "firebase_url": "https://convoiturage-81bdb.firebaseio.com",
+    "project_id": "convoiturage-81bdb",
+    "storage_bucket": "convoiturage-81bdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391654219851:android:f4213c29e520a141",
+        "android_client_info": {
+          "package_name": "com.example.sony.tabhost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391654219851-8corefijnkun3t88jaojvhno5ofmi833.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sony.tabhost",
+            "certificate_hash": "7fb04f3ba3b1f7beee225044bb6649a9c141d0f7"
+          }
+        },
+        {
+          "client_id": "391654219851-3gf53vqq8c9iutmrkechrkr4vpipu1rv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtqPEua5y_JNHtyV4bMa5LsXjGs-PWZN8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391654219851-3gf53vqq8c9iutmrkechrkr4vpipu1rv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    app:cardCornerRadius="12dp"
+   app:cardBackgroundColor="#000000"
+    android:elevation="90dp"
+    android:layout_margin="10dp"
+    tools:targetApi="lollipop">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    >
+
+        <ImageView
+            android:id="@+id/CarShowImage"
+            android:layout_width="140dp"
+            android:layout_height="150dp"
+            android:scaleType="centerCrop"
+            />
+    <LinearLayout
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="5dp"
+        android:layout_marginStart="5dp">
+        <TextView
+            android:id="@+id/BrandShow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="5dp"
+            android:text="Brand :"
+            android:textColor="@color/white"
+            android:layout_marginStart="5dp" />
+        <TextView
+            android:id="@+id/CarShowType"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:text="@string/car_type"
+            android:textColor="@color/white"
+            android:layout_marginStart="5dp" />
+        <TextView
+            android:id="@+id/matriculeShow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:text="Matricule : "
+            android:textColor="@color/white"
+            android:layout_marginStart="5dp" />
+        <TextView
+            android:id="@+id/Shownumcartegrise"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:text="@string/num_ro_cartegrise"
+            android:textColor="@color/white"
+            android:layout_marginStart="5dp" />
+
+
+        </LinearLayout>
+
+
+</LinearLayout>
+
+
+</android.support.v7.widget.CardView>

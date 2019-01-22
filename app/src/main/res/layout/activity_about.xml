@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sony.tabhost.About">
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/carpooling_also_car_sharing_ride_sharing_and_lift_sharing_is_the_sharing_of_car_journeys_so_that_more_than_one_person_travels_in_a_car_and_prevents_the_need_for_others_to_have_to_drive_to_a_location_themselves"
+        android:padding="20dp"
+        android:textSize="30sp"
+        />
+</android.support.constraint.ConstraintLayout>

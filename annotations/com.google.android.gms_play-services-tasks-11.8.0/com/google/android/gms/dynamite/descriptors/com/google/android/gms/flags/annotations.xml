@@ -1,0 +1,5 @@
+<root>
+    <item name='com.google.android.gms.dynamite.descriptors.com.google.android.gms.flags.ModuleDescriptor MODULE_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

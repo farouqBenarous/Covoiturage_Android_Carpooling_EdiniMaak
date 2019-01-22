@@ -1,0 +1,239 @@
+<root>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param ITEM_VARIANT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param CONTENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param ITEM_BRAND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param CREATIVE_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param CHARACTER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param LEVEL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Event SPEND_VIRTUAL_CURRENCY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Event SHARE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param SOURCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param TRAVEL_CLASS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Event ECOMMERCE_PURCHASE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param ITEM_LOCATION_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param NUMBER_OF_PASSENGERS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Event ADD_TO_WISHLIST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Event LEVEL_UP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Event SET_CHECKOUT_OPTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param ITEM_CATEGORY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param END_DATE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param CHECKOUT_OPTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Event VIEW_ITEM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param CAMPAIGN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param CP1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param ORIGIN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param INDEX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param QUANTITY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Event SELECT_CONTENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Event SEARCH'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Event SIGN_UP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param ITEM_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param MEDIUM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Event CHECKOUT_PROGRESS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Event TUTORIAL_BEGIN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param PRICE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param GROUP_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Event VIEW_ITEM_LIST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param SIGN_UP_METHOD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param AFFILIATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Event PRESENT_OFFER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param START_DATE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Event APP_OPEN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Event LOGIN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param SEARCH_TERM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param ITEM_LIST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param DESTINATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param ITEM_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param COUPON'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Event UNLOCK_ACHIEVEMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param CONTENT_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param FLIGHT_NUMBER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Event BEGIN_CHECKOUT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param LOCATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Event POST_SCORE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Event JOIN_GROUP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Event EARN_VIRTUAL_CURRENCY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param NUMBER_OF_NIGHTS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Event PURCHASE_REFUND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param TAX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param TRANSACTION_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param TERM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.UserProperty SIGN_UP_METHOD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param CHECKOUT_STEP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Event ADD_PAYMENT_INFO'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics com.google.firebase.analytics.FirebaseAnalytics getInstance(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Event VIEW_SEARCH_RESULTS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param VIRTUAL_CURRENCY_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param CREATIVE_SLOT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param SHIPPING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics com.google.firebase.analytics.FirebaseAnalytics getInstance(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Event ADD_TO_CART'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Event GENERATE_LEAD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param ACHIEVEMENT_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param SCORE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param VALUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param CURRENCY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param NUMBER_OF_ROOMS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Event REMOVE_FROM_CART'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Param ACLID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Event TUTORIAL_COMPLETE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.analytics.FirebaseAnalytics.Event CAMPAIGN_DETAILS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,107 @@
+<root>
+    <item name='com.google.android.gms.tasks.TaskExecutors MAIN_THREAD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tasks.TaskCompletionSource com.google.android.gms.tasks.Task&lt;TResult&gt; getTask()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tasks.Tasks com.google.android.gms.tasks.Task&lt;TResult&gt; call(java.util.concurrent.Executor, java.util.concurrent.Callable&lt;TResult&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tasks.Tasks com.google.android.gms.tasks.Task&lt;java.lang.Void&gt; whenAll(com.google.android.gms.tasks.Task&lt;?&gt;...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tasks.Task com.google.android.gms.tasks.Task&lt;TResult&gt; addOnFailureListener(android.app.Activity, com.google.android.gms.tasks.OnFailureListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.tasks.Task com.google.android.gms.tasks.Task&lt;TResult&gt; addOnFailureListener(java.util.concurrent.Executor, com.google.android.gms.tasks.OnFailureListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.tasks.Task com.google.android.gms.tasks.Task&lt;TResult&gt; addOnSuccessListener(android.app.Activity, com.google.android.gms.tasks.OnSuccessListener&lt;? super TResult&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.tasks.Tasks com.google.android.gms.tasks.Task&lt;java.lang.Void&gt; whenAll(java.util.Collection&lt;? extends com.google.android.gms.tasks.Task&lt;?&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tasks.Tasks com.google.android.gms.tasks.Task&lt;TResult&gt; call(java.util.concurrent.Executor, java.util.concurrent.Callable&lt;TResult&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tasks.Tasks com.google.android.gms.tasks.Task&lt;TResult&gt; call(java.util.concurrent.Callable&lt;TResult&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tasks.Tasks com.google.android.gms.tasks.Task&lt;TResult&gt; forException(java.lang.Exception)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tasks.Task com.google.android.gms.tasks.Task&lt;TResult&gt; addOnCompleteListener(java.util.concurrent.Executor, com.google.android.gms.tasks.OnCompleteListener&lt;TResult&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.tasks.Tasks com.google.android.gms.tasks.Task&lt;TResult&gt; forResult(TResult)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tasks.Tasks TResult await(com.google.android.gms.tasks.Task&lt;TResult&gt;, long, java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tasks.Tasks TResult await(com.google.android.gms.tasks.Task&lt;TResult&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tasks.Tasks com.google.android.gms.tasks.Task&lt;java.lang.Void&gt; whenAll(java.util.Collection&lt;? extends com.google.android.gms.tasks.Task&lt;?&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tasks.Task com.google.android.gms.tasks.Task&lt;TContinuationResult&gt; continueWithTask(java.util.concurrent.Executor, com.google.android.gms.tasks.Continuation&lt;TResult,com.google.android.gms.tasks.Task&lt;TContinuationResult&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.tasks.Task TResult getResult(java.lang.Class&lt;X&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.tasks.Continuation TContinuationResult then(com.google.android.gms.tasks.Task&lt;TResult&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.tasks.Tasks com.google.android.gms.tasks.Task&lt;java.lang.Void&gt; whenAll(com.google.android.gms.tasks.Task&lt;?&gt;...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tasks.Task com.google.android.gms.tasks.Task&lt;TResult&gt; addOnCompleteListener(android.app.Activity, com.google.android.gms.tasks.OnCompleteListener&lt;TResult&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.tasks.Task com.google.android.gms.tasks.Task&lt;TResult&gt; addOnSuccessListener(java.util.concurrent.Executor, com.google.android.gms.tasks.OnSuccessListener&lt;? super TResult&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.tasks.Tasks com.google.android.gms.tasks.Task&lt;java.util.List&lt;TResult&gt;&gt; whenAllSuccess(java.util.Collection&lt;? extends com.google.android.gms.tasks.Task&lt;?&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tasks.Task com.google.android.gms.tasks.Task&lt;TContinuationResult&gt; continueWith(java.util.concurrent.Executor, com.google.android.gms.tasks.Continuation&lt;TResult,TContinuationResult&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.tasks.Tasks com.google.android.gms.tasks.Task&lt;java.util.List&lt;com.google.android.gms.tasks.Task&lt;?&gt;&gt;&gt; whenAllComplete(java.util.Collection&lt;? extends com.google.android.gms.tasks.Task&lt;?&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

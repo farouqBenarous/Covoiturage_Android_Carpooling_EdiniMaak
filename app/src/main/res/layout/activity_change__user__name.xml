@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.sony.tabhost.Change_User_Name">
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/oldusername"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/old_user_name"
+            android:inputType="text"
+            android:textColor="#000000"
+            android:textColorHint="#000000" />
+
+
+    </android.support.design.widget.TextInputLayout>
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/newusername"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:hint="@string/new_user_name"
+            android:inputType="text"
+            android:textColor="#000000"
+            android:textColorHint="#000000" />
+
+
+    </android.support.design.widget.TextInputLayout>
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dip"
+        android:background="@color/colorAccent"
+        android:onClick="Save"
+        android:text="save"
+        android:textColor="@android:color/black" />
+
+
+    <ProgressBar
+        android:id="@+id/progressBar5"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center|bottom"
+        android:visibility="gone" />
+
+
+
+
+
+</LinearLayout>

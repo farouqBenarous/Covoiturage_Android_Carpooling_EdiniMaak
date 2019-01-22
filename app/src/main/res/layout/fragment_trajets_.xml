@@ -1,0 +1,49 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frameLayout5"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.sony.tabhost.Trajets_Fragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <Button
+        android:layout_width="300dp"
+        app:cardCornerRadius="12dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="@color/colorAccent"
+        android:onClick="AddTrip"
+        android:text="@string/add_trip"
+        android:textColor="@android:color/black" />
+
+    <Button
+        app:cardCornerRadius="12dp"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@color/colorAccent"
+        android:onClick="Search_A_trip"
+        android:text="@string/search_trip"
+        android:textColor="@android:color/black" />
+
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+       android:id="@+id/tt"
+        android:orientation="vertical"
+        android:background="@color/white"
+        >
+
+
+    </android.support.v7.widget.RecyclerView>
+
+
+
+
+</LinearLayout>

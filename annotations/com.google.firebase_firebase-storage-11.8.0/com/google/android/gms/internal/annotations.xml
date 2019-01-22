@@ -1,0 +1,38 @@
+<root>
+    <item name='com.google.android.gms.internal.zzeyb com.google.android.gms.internal.zzeyc zza(android.net.Uri, java.lang.String, byte[], long, int, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.internal.zzeyb com.google.android.gms.internal.zzeyc zza(android.net.Uri, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.internal.zzeyb com.google.android.gms.internal.zzeyc zza(android.net.Uri, org.json.JSONObject)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.internal.zzeyb com.google.android.gms.internal.zzeyc zzw(android.net.Uri)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.internal.zzeyb com.google.android.gms.internal.zzeyc zzv(android.net.Uri)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.internal.zzeyc void zza(com.google.android.gms.tasks.TaskCompletionSource&lt;TResult&gt;, TResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.internal.zzexr void zza(com.google.android.gms.internal.zzeyc, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.internal.zzexw java.lang.String zzh(com.google.firebase.FirebaseApp) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.internal.zzexo com.google.android.gms.internal.zzexo zzcme()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.internal.zzeyb com.google.android.gms.internal.zzeyc zza(android.net.Uri, org.json.JSONObject, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.internal.zzeyb com.google.android.gms.internal.zzeyc zzb(android.net.Uri, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.internal.zzeyb com.google.android.gms.internal.zzeyc zza(android.net.Uri, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

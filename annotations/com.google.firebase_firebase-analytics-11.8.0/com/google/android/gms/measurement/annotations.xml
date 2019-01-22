@@ -1,0 +1,5 @@
+<root>
+    <item name='com.google.android.gms.measurement.AppMeasurementContentProvider void attachInfo(android.content.Context, android.content.pm.ProviderInfo) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>
